@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fedecimino
 - 👀 I’m interested in music, food , travelling
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studing to become a software developer with CFG
 - 📫 How to reach me cfederica88@gmail.com
 
 <!---
